@@ -11,6 +11,7 @@ I'm a transport dispatcher at a coach and minibus company. I build my own tools 
 | Project | What it does |
 |---|---|
 | [Airport Sign Printer](https://github.com/Tonymathewz/airport-sign-printer) · [**try it**](https://tonymathewz.github.io/airport-sign-printer/) | Print big client name signs for airport and hotel pick-ups, or send them by WhatsApp |
+| [Excel Web Viewer](https://github.com/Tonymathewz/excel-web-viewer) · [**demo**](https://tonymathewz.github.io/excel-web-viewer/) | Turn a folder of Excel workbooks into one searchable, printable web page |
 | [Office Automation Lessons](https://github.com/Tonymathewz/office-automation-lessons) | Bugs and fixes from automating Excel reports with Python, openpyxl, LibreOffice and OneDrive |
 
 ### Tools I use
