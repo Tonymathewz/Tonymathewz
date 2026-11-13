@@ -1,61 +1,51 @@
 # Hi, I'm Tony 👋
 
-I build practical tools for real work — not just code for the sake of code.
+I'm a transport dispatcher at a coach and minibus company in Malta. I build practical tools that take repetitive work off the desk: daily schedules, booking checks and reports for a fleet of 40+ vehicles.
 
-My focus is on solving everyday business problems with simple, useful, browser-based tools, automation, and AI-powered workflows.
+My rule for AI and automation: **it prepares the work, a person approves it.** Nothing is sent, paid or changed without a human saying yes.
 
 ## What I build
-- Transport and logistics tools
-- Office automation for Excel, reports, and admin work
-- CV and job application tools
-- AI productivity workflows for business operations
-- Lightweight apps that run in a browser with no installation needed
+- **Transport and logistics tools.** Job sheets, pick-up signs, schedules.
+- **Office automation.** Excel reports that fill themselves from booking-system exports, using Python.
+- **AI assistants with a human in the loop.** Claude skills that read emails, invoices and notices and prepare the changes for approval.
+- **Browser tools that need no install** and print cleanly in black and white.
 
-## Current focus
-- Logistics & transport operations
-- Reporting and spreadsheet automation
-- AI-assisted office productivity
-- Real-world tools for non-technical users
-- Simple, useful software that saves time
+## Featured projects
 
-## Featured Projects
+### [office-claude-skills](https://github.com/Tonymathewz/office-claude-skills) ⭐ new
+Claude skills for people who run offices, not code. Includes **Office Bookkeeping**, which checks supplier invoices, issues invoices and credit notes, chases payments, reconciles bank statements and prepares the accountant's month-end pack, with VAT/GST profiles for 27 countries (Gulf, South and Southeast Asia, EU, UK).
 
-### [airport-sign-printer](https://github.com/Tonymathewz/airport-sign-printer)
-Print clear client name signs for airport and hotel pick-ups using a single HTML file.
+### [awesome-ai-for-office-workers](https://github.com/Tonymathewz/awesome-ai-for-office-workers) ⭐ new
+A curated list of free AI tools, guides and prompts for admin staff, dispatchers and coordinators.
 
-### [europe-ready-cv](https://github.com/Tonymathewz/europe-ready-cv)
-Turn a CV into a Europass-style résumé with ATS-friendly and German Lebenslauf formats.
+### [airport-sign-printer](https://github.com/Tonymathewz/airport-sign-printer) · [**try it**](https://tonymathewz.github.io/airport-sign-printer/)
+Print clear client name signs for airport and hotel pick-ups from a single HTML file, or send them by WhatsApp.
 
-### [excel-web-viewer](https://github.com/Tonymathewz/excel-web-viewer)
-Convert folders of Excel workbooks into one searchable, printable web page.
+### [job-sheet](https://github.com/Tonymathewz/job-sheet) · [**try it**](https://tonymathewz.github.io/job-sheet/)
+Printable job sheets where every stop is a clickable Google Maps link, for drivers and subcontractors.
 
-### [job-sheet](https://github.com/Tonymathewz/job-sheet)
-Generate printable job sheets with Google Maps links for transport and delivery tasks.
+### [europe-ready-cv](https://github.com/Tonymathewz/europe-ready-cv) · [**try it**](https://tonymathewz.github.io/europe-ready-cv/)
+Free CV converter: Europass-style CV with the CEFR language grid, an ATS-friendly CV and a German Lebenslauf.
+
+### [excel-web-viewer](https://github.com/Tonymathewz/excel-web-viewer) · [**demo**](https://tonymathewz.github.io/excel-web-viewer/)
+Turn a folder of Excel workbooks into one searchable, printable web page.
 
 ### [office-automation-lessons](https://github.com/Tonymathewz/office-automation-lessons)
-Notes and lessons from automating real business Excel and office workflows.
+Bugs and fixes from automating real Excel reports with Python, openpyxl, LibreOffice and OneDrive.
 
-## Tech Stack
-- Python
-- HTML / CSS / JavaScript
-- Excel automation
-- GitHub Pages
-- OpenPyXL
-- AI workflow design
-- Productivity tooling
+## Tech stack
+Python · openpyxl · Excel · HTML / CSS / JavaScript · GitHub Pages · LibreOffice · Claude (AI skills and workflow design)
+
+## Background
+- Since 2022: administration and dispatch for a transport company in Malta
+- Customer support on the Amazon account at Sutherland Global Services (chat and email)
+- BSc in Visual Communication
+- Languages: English, Malayalam, Hindi
 
 ## Why I build
-I enjoy creating tools that make work easier, faster, and less stressful.  
-Most of my projects are inspired by real operational pain points — not theoretical problems.
-
-## Goals
-- Build more useful automation tools
-- Create workflows that help office teams and operators
-- Turn boring admin tasks into simple systems
-- Keep projects practical, accessible, and easy to use
+Most of my projects start from a real problem at work, not a theoretical one. I like turning boring admin tasks into simple systems that anyone in the office can use.
 
 ## Connect
-- GitHub: [Tonymathewz](https://github.com/Tonymathewz)
-- Portfolio: check out my repositories above
+- LinkedIn: [Tony Mathew](https://www.linkedin.com/in/tony-mathew-115725170/)
 
-> Practical tools. Real-world workflows. Better productivity.
+> Practical tools. Real-world workflows. A human always approves.
