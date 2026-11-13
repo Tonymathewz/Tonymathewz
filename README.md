@@ -12,6 +12,7 @@ I'm a transport dispatcher at a coach and minibus company. I build my own tools 
 |---|---|
 | [Airport Sign Printer](https://github.com/Tonymathewz/airport-sign-printer) · [**try it**](https://tonymathewz.github.io/airport-sign-printer/) | Print big client name signs for airport and hotel pick-ups, or send them by WhatsApp |
 | [Job Sheet with Map Links](https://github.com/Tonymathewz/job-sheet) · [**try it**](https://tonymathewz.github.io/job-sheet/) | A4 job sheets where every stop is a clickable Google Maps link, for drivers and subcontractors |
+| [Europe-Ready CV](https://github.com/Tonymathewz/europe-ready-cv) · [**try it**](https://tonymathewz.github.io/europe-ready-cv/) | Free CV converter: Europass-style CV with the CEFR grid, ATS-friendly CV and German Lebenslauf |
 | [Excel Web Viewer](https://github.com/Tonymathewz/excel-web-viewer) · [**demo**](https://tonymathewz.github.io/excel-web-viewer/) | Turn a folder of Excel workbooks into one searchable, printable web page |
 | [Office Automation Lessons](https://github.com/Tonymathewz/office-automation-lessons) | Bugs and fixes from automating Excel reports with Python, openpyxl, LibreOffice and OneDrive |
 
